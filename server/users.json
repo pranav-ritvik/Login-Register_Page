@@ -1,0 +1,20 @@
+[
+  {
+    "firstName": "Pranav",
+    "middleName": "Venkat",
+    "lastName": "Dunga",
+    "age": "19",
+    "gender": "male",
+    "email": "pranav@gmail.com",
+    "password": "pranav"
+  },
+  {
+    "firstName": "Ritvik",
+    "middleName": "Venkat",
+    "lastName": "Dunga",
+    "age": "19",
+    "gender": "male",
+    "email": "dsvpr@gmail.com",
+    "password": "dsvpr"
+  }
+]
